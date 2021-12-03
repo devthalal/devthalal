@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thalal.hassan@neoito.com**
 
-- ⚡ Fun fact **Use copilot**
+- ⚡ Fun fact **use copilot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
