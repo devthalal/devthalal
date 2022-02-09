@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Thalal Hassan</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 <h3 align="left">Full Stack Developer adequate in all stages of advanced web development with the flair for
 creating elegant solutions and problem solving in the least amount of time. Bringing forth
